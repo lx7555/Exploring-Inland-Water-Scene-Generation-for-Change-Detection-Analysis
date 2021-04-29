@@ -1,4 +1,4 @@
-# Exploring-Urban-Water-Scene-Generation-for-Change-Detection-Analysis
+# Exploring-Inland-Water-Scene-Generation-for-Change-Detection-Analysis
 
 
 ## Abstract
