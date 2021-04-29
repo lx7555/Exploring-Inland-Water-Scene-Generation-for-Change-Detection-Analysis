@@ -16,10 +16,10 @@ Each specific sequence is also affected by other challenges, but one challenge i
 Besides, we propose an image-translation framework that translates simulated images to realistic synthetic images.
 
 ## The overall framework of the proposed method
-![image](https://github.com/lx7555/Exploring-Urban-Water-Scene-Generation-for-Change-Detection-Analysis/blob/main/image/fig2.jpg)
+![image](https://github.com/lx7555/Exploring-Inland-Water-Scene-Generation-for-Change-Detection-Analysis/blob/main/image/fig2.jpg)
 
 ## Examples of the real, simulated and synthetic dataset
-![image](https://github.com/lx7555/Exploring-Urban-Water-Scene-Generation-for-Change-Detection-Analysis/blob/main/image/fig7.jpg)
+![image](https://github.com/lx7555/Exploring-Inland-Water-Scene-Generation-for-Change-Detection-Analysis/blob/main/image/fig7.jpg)
 
 
 ## Download
@@ -35,10 +35,10 @@ Simulated Multi-challenge Sequences_gt_2021: The compressed file contains the gr
 [Simulated Multi-challenge Sequence_gt_2021.rar](https://drive.google.com/file/d/16ZCpV8VFezS0aaH7uIozPOYaPtj5KpfK/view?usp=sharing)
 
 ## Sample images of simulated multi-challenge sequences
-![image](https://github.com/lx7555/Exploring-Urban-Water-Scene-Generation-for-Change-Detection-Analysis/blob/main/image/fig4.jpg)
+![image](https://github.com/lx7555/Exploring-Inland-Water-Scene-Generation-for-Change-Detection-Analysis/blob/main/image/fig4.jpg)
 
 ## Examples of change detection results on simulated multi-challenge sequences using different models
-![image](https://github.com/lx7555/Exploring-Urban-Water-Scene-Generation-for-Change-Detection-Analysis/blob/main/image/fig9.jpg)
+![image](https://github.com/lx7555/Exploring-Inland-Water-Scene-Generation-for-Change-Detection-Analysis/blob/main/image/fig9.jpg)
 
 ## Citations
 All rights of the Simulated Multi-challenge and Synthetic Dataset are reversed by the Peng Cheng Laboratory. It is free for academic research, and your cooperation with us is appreciated. Feel free to contact us if you have any questions.
