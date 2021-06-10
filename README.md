@@ -3,11 +3,20 @@
 
 ## Abstract
 
-Change detection is becoming indispensable for unmanned aerial vehicles, especially in 
-the domain of water landing, rescue and search. However, even the most advanced change detectors 
-require large amounts of data for model training and testing. Therefore, a sufficient variety of 
-labeled images with different imaging conditions are needed. In this paper, we present a cloning 
-method to simulate water-scene and collect labeled multi-challenge sequences automatically. The multi-challenge sequences consist of six challenges to test the effects of dynamic background, weather, and noise on change detection models. Then, we propose an image-translation framework that translates simulated images to synthetic images. This framework uses shared parameters (encoder and generator) and 10 × 10 receptive fields (discriminator), so it can generate realistic synthetic images as model training sets. The experimental results indicate that: 1) different imaging challenges will affect the performance of change detection models; 2) compared with simulated images, the synthetic images can effectively improve the accuracy of (supervised) change detection models.
+Change detection (CD) is becoming indispensable for unmanned aerial vehicles (UAV),
+especially in the domain of water landing and aerial observation. However, even the most
+advanced models require large amounts of data for model training and testing. Therefore, a
+sufficient variety of labeled images with different imaging conditions are needed. In this paper,
+we present a cloning method to simulate inland-water scene and collect automatically labeled 
+multi-challenge sequences. The simulated dataset consists of two subsets (normal and aerial image
+categories). The normal subset includes six challenges that test the effects of dynamic background,
+weather, and noise on change detection models. The aerial imagery subset provides changes in
+building, vegetation, and ocean color for remote sensing detection. Then, we propose an image-
+translation framework that translates simulated images to synthetic images. This framework 10
+uses shared parameters (encoder and generator) and 22 × 22 receptive fields (discriminator) to
+generate realistic synthetic images as model training sets. The experimental results indicate that: 1)
+different imaging challenges affect the performance of change detection models; 2) compared with
+simulated images, synthetic images can effectively improve the accuracy of supervised models.
 
 ## Description
 Considering that change detection models have to deal with some challenges of water scenes, we generate various simulated multi-challenge sequences, 
