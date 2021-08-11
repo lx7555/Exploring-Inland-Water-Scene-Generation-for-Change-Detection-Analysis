@@ -45,7 +45,6 @@ Simulated Multi-challenge Sequences_gt_2021: The compressed file contains the gr
 
 ## Sample images of simulated multi-challenge sequences
 ![image](https://github.com/lx7555/Exploring-Inland-Water-Scene-Generation-for-Change-Detection-Analysis/blob/main/image/fig4.jpg)
-![image](https://github.com/lx7555/Exploring-Inland-Water-Scene-Generation-for-Change-Detection-Analysis/blob/main/image/fig5.jpg)
 
 ## Examples of change detection results on simulated multi-challenge sequences using different models
 ![image](https://github.com/lx7555/Exploring-Inland-Water-Scene-Generation-for-Change-Detection-Analysis/blob/main/image/fig9.jpg)
