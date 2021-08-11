@@ -28,7 +28,7 @@ Besides, we propose an image-translation framework that translates simulated ima
 ![image](https://github.com/lx7555/Exploring-Inland-Water-Scene-Generation-for-Change-Detection-Analysis/blob/main/image/fig2.jpg)
 
 ## Examples of the real, simulated and synthetic dataset
-![image](https://github.com/lx7555/Exploring-Inland-Water-Scene-Generation-for-Change-Detection-Analysis/blob/main/image/fig7.jpg)
+![image](https://github.com/lx7555/Exploring-Inland-Water-Scene-Generation-for-Change-Detection-Analysis/blob/main/image/fig8.jpg)
 
 
 ## Download
